@@ -1,23 +1,16 @@
 # 🚀 API Gasolink
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" />`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" />`{=html}
-```{=html}
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-Backend em `<b>`{=html}FastAPI`</b>`{=html} + Integração com
-`<b>`{=html}Supabase`</b>`{=html}`<br>`{=html} Preparado para integração
-com `<b>`{=html}React Native (TSX)`</b>`{=html}
-```{=html}
+Backend em <b>FastAPI</b> + Integração com <b>Supabase</b><br>
+Preparado para integração com <b>React Native (TSX)</b>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
